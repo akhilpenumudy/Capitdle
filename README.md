@@ -11,6 +11,4 @@ You will get five guesses to find the target American capital. From your guess, 
 - Utilized the "Some great circle formulae" to get the distance between the guessed and target capital. 
 - Created an algorithm that takes in the latitude and longitude coordinates of both capitals, then calculates and assigns the proper cardinal direction. 
 
-
-
-
+🧠 App inspired by https://worldle.teuteuf.fr
